@@ -1,0 +1,25 @@
+
+.de-tai > h3 {
+    font-size: 30px;
+}
+.de-tai-title {
+    font-size: 30px;
+}
+.de-tai-para p {
+    font-size: 20px;
+    line-height: 36px;
+}
+.de-tai-container-img img{
+ object-fit: contain;
+ height: 100%;
+ margin-right: 20px;
+}
+
+.de-tai-container{
+    display: flex;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    justify-content: space-around;
+}
